@@ -42,7 +42,7 @@ body{
 .header-section {
   background: #393b3a;
   text-align: center;
-    min-height: 300px;
+    min-height: 250px;
 }
 .header-section .imagehead img {
   margin-top: 1em;
