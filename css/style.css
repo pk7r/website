@@ -36,13 +36,13 @@ ul{
 body{
 	padding:0 0;
 	margin:0 0; 
-	font-family: 'sans-serif';
+	font-family: 'Nunito-Bold';
 
 }
 .header-section {
   background: #393b3a;
   text-align: center;
-    min-height: 410px;
+    min-height: 300px;
 }
 .header-section .imagehead img {
   margin-top: 1em;
